@@ -1,4 +1,4 @@
-# Aplicativo de Conversa
+# HackaMessages
 
 Neste exercício, desenvolvi uma aplicação simples de **mensagens de texto**, onde o usuário pode entrar em conversas e visualizar as mensagens trocadas.
 
@@ -34,15 +34,17 @@ Durante o desenvolvimento dessa aplicação, aprendi a utilizar os seguintes rec
 ### Imagens:
 Aqui estão as imagens que representam os diferentes aspectos da aplicação:
 
-1. **Tela Principal (Lista de Conversas)**: Exibe uma lista de conversas disponíveis.
-   ![Tela Principal](/Images/TabView/Pagina1.jpg)
+<div style="display: flex; justify-content: space-between; gap: 20px;">
 
-2. **Conversa 1 (Parceria 1)**: A tela de uma conversa com uma imagem representando a parceria.
-   ![Conversa 1](/Images/TabView/Conversa1.jpg)
+  <img src="/Images/TabView/Pagina1.jpg" height="400px" alt="Tela Principal">
+  
+  <img src="/Images/TabView/Conversa1.jpg" height="400px" alt="Conversa 1">
+  
+  <img src="/Images/TabView/Conversa2.jpg" height="400px" alt="Conversa 2">
+  
+  <img src="/Images/TabView/Conversa3.jpg" height="400px" alt="Conversa 3">
+  
+</div>
 
-3. **Conversa 2 (Parceria 2)**: Outra conversa com sua respectiva imagem de parceria.
-   ![Conversa 2](/Images/TabView/Conversa2.jpg)
 
-4. **Conversa 3 (Parceria 3)**: Mais uma conversa com imagem de parceria.
-   ![Conversa 3](/Images/TabView/Conversa3.jpg)
 
