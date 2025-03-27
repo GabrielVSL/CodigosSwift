@@ -1,0 +1,129 @@
+[
+    {
+        "id": "20da48f0c465631c",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "f64a76d3210ed034",
+        "type": "cloudantplus out",
+        "z": "20da48f0c465631c",
+        "name": "",
+        "cloudant": "b6737181f6e90c46",
+        "database": "gabrielbase",
+        "service": "_ext_",
+        "payonly": true,
+        "operation": "insert",
+        "x": 410,
+        "y": 140,
+        "wires": [
+            [
+                "417dd5ae3cc1b9ad"
+            ]
+        ]
+    },
+    {
+        "id": "933e0f76f551f9fd",
+        "type": "http in",
+        "z": "20da48f0c465631c",
+        "name": "",
+        "url": "/gabrielPost",
+        "method": "post",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 90,
+        "y": 140,
+        "wires": [
+            [
+                "0a93c8d104ad8e17"
+            ]
+        ]
+    },
+    {
+        "id": "417dd5ae3cc1b9ad",
+        "type": "http response",
+        "z": "20da48f0c465631c",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 570,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "19deadc6316f0def",
+        "type": "http in",
+        "z": "20da48f0c465631c",
+        "name": "",
+        "url": "/gabrielGet",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 140,
+        "y": 220,
+        "wires": [
+            [
+                "7ad46c654fa32372"
+            ]
+        ]
+    },
+    {
+        "id": "8ba11e75e4bbf046",
+        "type": "http response",
+        "z": "20da48f0c465631c",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 570,
+        "y": 220,
+        "wires": []
+    },
+    {
+        "id": "7ad46c654fa32372",
+        "type": "cloudantplus in",
+        "z": "20da48f0c465631c",
+        "name": "",
+        "cloudant": "b6737181f6e90c46",
+        "database": "gabrielbase",
+        "service": "_ext_",
+        "search": "_all_",
+        "design": "",
+        "index": "",
+        "x": 350,
+        "y": 220,
+        "wires": [
+            [
+                "8ba11e75e4bbf046"
+            ]
+        ]
+    },
+    {
+        "id": "0a93c8d104ad8e17",
+        "type": "split",
+        "z": "20da48f0c465631c",
+        "name": "",
+        "splt": "\\n",
+        "spltType": "str",
+        "arraySplt": 1,
+        "arraySpltType": "len",
+        "stream": false,
+        "addname": "",
+        "x": 250,
+        "y": 140,
+        "wires": [
+            [
+                "f64a76d3210ed034"
+            ]
+        ]
+    },
+    {
+        "id": "b6737181f6e90c46",
+        "type": "cloudantplus",
+        "host": "https://f1c0dcf9-5075-4061-a1f8-2f4ca596058a-bluemix.cloudantnosqldb.appdomain.cloud",
+        "name": "Terceira Credencial",
+        "useapikey": true
+    }
+]
