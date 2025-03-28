@@ -29,3 +29,43 @@ Durante o desenvolvimento dessa aplicação, utilizei recursos do SwiftUI e da m
 - `ScrollView`, `NavigationLink`
 - `URLSession` (para realizar as requisições HTTP)
 - API RESTful (Harry Potter API)
+
+- ### Modelo dos Personagens:
+
+```swift
+struct HaPo: Codable, Identifiable {
+    let id: String
+    let name: String?
+    let alternate_names: [String]?
+    let species: String?
+    let gender: String?
+    let house: String?
+    let dateOfBirth: String?
+    let yearOfBirth: Int?
+    let wizard: Bool?
+    let ancestry: String?
+    let eyeColour: String?
+    let hairColour: String?
+    let wand: Wand
+    let patrons: String?
+    let hogwartsStuddent: Bool?
+    let hogwartsStaff: Bool?
+    let actor: String?
+    let alternative_actors: [String]?
+    let alive: Bool?
+    let image: String?
+}
+
+struct Wand: Codable {
+    let wood: String?
+    let core: String?
+    let lenth: Double?
+}
+```
+<div align="center"">
+
+  <img src="/Images/API/harryPotter1.jpg" height="400px" alt="">
+  <img width="12" />
+  <img src="/Images/API/harryPotter2.jpg" height="400px" alt="">
+  
+</div>

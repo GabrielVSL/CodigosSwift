@@ -36,7 +36,7 @@ A resposta mockada da API é um array de objetos JSON com os produtos:
     "description": "Tênis esportivo, tamanho 42"
   }
 ]
-
+```
 
 ### Navegação:
 Durante o desenvolvimento dessa aplicação, utilizei recursos do SwiftUI para exibir as informações obtidas da API mockada:
@@ -66,11 +66,11 @@ struct Product: Codable {
     let price: Double
     let description: String
 }
-
+```
 ### Imagens:
 Aqui estão as imagens que representam os diferentes aspectos da aplicação:
 
-<div style="display: flex; justify-content: space-between; gap: 20px;">
+<div align="center"">
 
   <img src="/Images/VendeRapido/VendeRapido1.jpg" height="400px" alt="Tela Principal">
   
