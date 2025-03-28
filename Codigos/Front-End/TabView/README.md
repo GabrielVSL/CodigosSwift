@@ -37,11 +37,11 @@ Aqui estão as imagens que representam os diferentes aspectos da aplicação:
 <div style="display: flex; justify-content: space-between; gap: 20px;">
 
   <img src="/Images/TabView/Pagina1.jpg" height="400px" alt="Tela Principal">
-  
+  <img width="12" />
   <img src="/Images/TabView/Conversa1.jpg" height="400px" alt="Conversa 1">
-  
+  <img width="12" />
   <img src="/Images/TabView/Conversa2.jpg" height="400px" alt="Conversa 2">
-  
+  <img width="12" />
   <img src="/Images/TabView/Conversa3.jpg" height="400px" alt="Conversa 3">
   
 </div>

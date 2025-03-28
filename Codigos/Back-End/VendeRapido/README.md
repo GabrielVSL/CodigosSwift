@@ -73,7 +73,7 @@ Aqui estão as imagens que representam os diferentes aspectos da aplicação:
 <div align="center"">
 
   <img src="/Images/VendeRapido/VendeRapido1.jpg" height="400px" alt="Tela Principal">
-  
+  <img width="12" />
   <img src="/Images/VendeRapido/VendeRapido2.jpg" height="400px" alt="Conversa 1">
   
 </div>

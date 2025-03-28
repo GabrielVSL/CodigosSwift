@@ -64,8 +64,8 @@ struct Wand: Codable {
 ```
 <div align="center"">
 
-  <img src="/Images/API/harryPotter1.jpg" height="400px" alt="">
+  <img src="/Images/API/harryPotter1.jpeg" height="400px" alt="">
   <img width="12" />
-  <img src="/Images/API/harryPotter2.jpg" height="400px" alt="">
+  <img src="/Images/API/harryPotter2.jpeg" height="400px" alt="">
   
 </div>
