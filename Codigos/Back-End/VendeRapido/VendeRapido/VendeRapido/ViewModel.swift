@@ -10,6 +10,7 @@ import Foundation
 class ViewModel: ObservableObject {
     
     @Published var post: [Post] = []
+    @Published var perfil: [Profile] = []
     
     func fetch(){
         
