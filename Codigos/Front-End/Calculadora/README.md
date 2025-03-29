@@ -37,3 +37,20 @@ Este exercício consiste em uma aplicação simples que calcula a **velocidade m
 A combinação de SwiftUI com os componentes de interface como `Button` torna o processo de construção de aplicativos mais ágil e eficiente. No caso deste exercício, o `Button` foi fundamental para permitir que o usuário iniciasse o cálculo da velocidade, enquanto a reatividade do SwiftUI garantiu que a interface fosse atualizada imediatamente após o cálculo da velocidade média.
 
 Essa aplicação foi um ótimo exercício para entender como utilizar SwiftUI para criar interfaces interativas, manipular dados de entrada e atualizar dinamicamente a interface com base no resultado obtido. 
+
+### Imagens 
+
+<div align="center">
+  <img src="/Images/Calculadora/calculadora1.jpg" height="400px" alt="Tela Principal">
+  <img width="12" />
+  <img src="/Images/Calculadora/calculadora3.jpg" height="400px" alt="Tela Principal">
+  <img width="12" />
+  <img src="/Images/Calculadora/calculadora2.jpg" height="400px" alt="Tela Principal">
+  <img width="12" />
+  <img src="/Images/Calculadora/calculadora4.jpg" height="400px" alt="Tela Principal">
+  <img width="12" />
+  <img src="/Images/Calculadora/calculadora5.jpg" height="400px" alt="Tela Principal">
+  <img width="12" />
+  <img src="/Images/Calculadora/calculadora6.jpg" height="400px" alt="Tela Principal">
+  <img width="12" />
+</div>
