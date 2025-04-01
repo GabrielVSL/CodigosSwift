@@ -1,6 +1,8 @@
 # Detector de Gás com Sensor MQ3 e Arduino
 
-![Imagem do projeto](/Images/sensorGas/experiencia.jpg)
+<div align= "center">
+  <img src="/Images/sensorGas/experiencia.jpg" height="400"/>
+</div>
 
 ## 📌 Sobre o Projeto
 Este projeto utiliza o **sensor MQ3** para detectar a presença de gases no ambiente, especialmente **álcool**. O código é desenvolvido em **C++** e carregado no **Arduino** através da Arduino IDE.
@@ -20,7 +22,10 @@ Conecte o **sensor MQ3** ao Arduino conforme a seguinte configuração:
 - **A0** → Pino analógico (A0 no Arduino)
 
 ### 📸 Imagem do Circuito
-![Imagem ilustrativa](/Images/sensorGas/exemplo.jpg)
+
+<div align= "center">
+  <img src="/Images/sensorGas/exemplo.jpg" height="400"/>
+</div>
 
 ## 📜 Código Fonte
 ```cpp
