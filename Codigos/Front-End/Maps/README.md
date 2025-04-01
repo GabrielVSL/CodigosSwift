@@ -1,9 +1,9 @@
 # 🌍 Mapa Interativo de Lugares
 
 <div align="center">
-  <img src="/Images/Maps/Overview1.jpg" alt="Imagem Exemplo 1" width="400"/>
-  <img src="" width="12"/>
-  <img src="/Images/Maps/Overview2.jpg" alt="Imagem Exemplo 2" width="400"/>
+  <img src="/Images/Maps/Overview1.jpg" alt="Imagem Exemplo 1" height= 400;/>
+  <img width="12"/>
+  <img src="/Images/Maps/Overview2.jpg" alt="Imagem Exemplo 2" height= 400;/>
 </div>
 
 ## 📌 Sobre o Projeto
@@ -42,109 +42,103 @@ Os seguintes lugares podem ser explorados no mapa:
 - Exibição de **imagens representativas** dos locais
 - Suporte a **zoom e navegação fluida** pelo mapa
 
-## 🔧 Como Rodar o Projeto
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   ```
-2. Abra o projeto no **Xcode**
-3. Certifique-se de que o **simulador ou dispositivo físico** tem acesso à internet para carregar as imagens
-4. Compile e execute o projeto
 
 ## 📷 Galeria de Imagens
 
 ### Rio de Janeiro
-
-![Rio de Janeiro](/Images/Maps/Rio1)
-
-![Imagem 2 do Rio de Janeiro](/Images/Maps/Rio2)
+<div>
+  <img src="/Images/Maps/Rio1.jpg" height= 400px;/>
+  <img width="12"/>
+  <img src="/Images/Maps/Rio2.jpg" height= 400px;/>
+</div>
 
 ### São Paulo
-
-![São Paulo](/Images/Maps/SP1)
-
-![Imagem 2 de São Paulo](/Images/Maps/SP1)
+<div>
+  <img src="/Images/Maps/SP1.jpg" height= 400px;/>
+  <img width="12"/>
+  <img src="/Images/Maps/SP2.jpg" height= 400px;/>
+</div>
 
 ### Salvador
-
-![Salvador](/Images/Maps/Salvador1.jpg)
-
-![Imagem 2 de Salvador](/Images/Maps/Salvador2.jpg)
+<div>
+  <img src="/Images/Maps/Salvador1.jpg" height= 400px;/>
+  <img width="12"/>
+  <img src="/Images/Maps/Salvador2.jpg" height= 400px;/>
+</div>
 
 ### Fortaleza
-
-![Fortaleza](/Images/Maps/Fortal1.jpg)
-
-![Imagem 2 de Fortaleza](/Images/Maps/Fortal2.jpg)
-
+<div>
+  <img src="/Images/Maps/Fortal1.jpg" height= 400px;/>
+  <img width="12"/>
+  <img src="/Images/Maps/Fortal2.jpg" height= 400px;/>
+  </div>
+  
 ### Buenos Aires
-
-![Buenos Aires](/Images/Maps/Buenos1.jpg)
-
-![Imagem 2 de Buenos Aires](/Images/Maps/Buenos2.jpg)
+<div>
+  <img src="/Images/Maps/Buenos1.jpg" height= 400px;/>
+  <img width="12"/>
+  <img src="/Images/Maps/Buenos2.jpg" height= 400px;/>
+</div>
 
 ### Berlim
-
-![Berlim](/Images/Maps/Berlim1.jpg)
-
-![Imagem 2 de Berlim](/Images/Maps/Berlim2.jpg)
+<div>
+  <img src="/Images/Maps/Berlim1.jpg" height= 400px;/>
+  <img width="12"/>
+  <img src="/Images/Maps/Berlim2.jpg" height= 400px;/>
+</div>
 
 ### Kyoto
-
-![Kyoto](/Images/Maps/Kyoto1.jpg)
-
-![Imagem 2 de Kyoto](/Images/Maps/Kyoto2.jpg)
+<div>
+  <img src="/Images/Maps/Kyoto1.jpg" height= 400px;/>
+  <img width="12"/>
+  <img src="/Images/Maps/Kyoto2.jpg" height= 400px;/>
+</div>
 
 ### Cairo
-
-![Cairo](/Images/Maps/Cairo1.jpg)
-
-![Imagem 2 de Cairo](/Images/Maps/Cairo2.jpg)
+<div>
+  <img src="/Images/Maps/Cairo1.jpg" height= 400px;/>
+  <img width="12"/>
+  <img src="/Images/Maps/Cairo2.jpg" height= 400px;/>
+</div>
 
 ### Dubai
-
-![Dubai](/Images/Maps/Dubai1.jpg)
-
-![Imagem 2 de Dubai](/Images/Maps/Dubai2.jpg)
+<div>
+  <img src="/Images/Maps/Dubai1.jpg" height= 400px;/>
+  <img width="12"/>
+  <img src="/Images/Maps/Dubai2.jpg" height= 400px;/>
+</div>
 
 ### Barcelona
-
-![Barcelona](/Images/Maps/Barcelona1.jpg)
-
-![Imagem 2 de Barcelona](/Images/Maps/Barcelona2.jpg)
+<div>
+  <img src="/Images/Maps/Barcelona1.jpg" height= 400px;/>
+  <img width="12"/>
+  <img src="/Images/Maps/Barcelona2.jpg" height= 400px;/>
+</div>
 
 ### Xangai
-
-![Xangai](/Images/Maps/Xangai1.jpg)
-
-![Imagem 2 de Xangai](/Images/Maps/Xangai2.jpg)
+<div>
+  <img src="/Images/Maps/Xangai1.jpg" height= 400px;/>
+  <img width="12"/>
+  <img src="/Images/Maps/Xangai2.jpg" height= 400px;/>
+</div>
 
 ### Lyon
-
-![Lyon](/Images/Maps/Lyon1.jpg)
-
-![Imagem 2 de Lyon](/Images/Maps/Lyon2.jpg)
+<div>
+  <img src="/Images/Maps/Lyon1.jpg" height= 400px;/>
+  <img width="12"/>
+  <img src="/Images/Maps/Lyon2.jpg" height= 400px;/>
+</div>
 
 ### Lima
-
-![Lima](/Images/Maps/Lima1.jpg)
-
-![Imagem 2 de Lima](/Images/Maps/Lima2.jpg)
+<div>
+  <img src="/Images/Maps/Lima1.jpg" height= 400px;/>
+  <img width="12"/>
+  <img src="/Images/Maps/Lima2.jpg" height= 400px;/>
+</div>
 
 ### Amsterdã
-
-![Amsterdã](/Images/Maps/Amsterda1.jpg)
-
-![Imagem 2 de Amsterdã](/Images/Maps/Amsterda2.jpg)
-
----
-
-## 📩 Contato
-
-Caso tenha dúvidas ou sugestões, entre em contato:
-
-- **Email:** seuemail@example.com
-- **GitHub:** [seu-usuario](https://github.com/seu-usuario)
-
-🗺️ Explore o mundo sem sair do seu app! 🚀
+<div>
+  <img src="/Images/Maps/Amsterda1.jpg" height= 400px;/>
+  <img width="12"/>
+  <img src="/Images/Maps/Amsterda2.jpg" height= 400px;/>
+</div>
