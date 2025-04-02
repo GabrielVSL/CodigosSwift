@@ -1,0 +1,109 @@
+[
+    {
+        "id": "7d81ab0be476775d",
+        "type": "http in",
+        "z": "d8ea2a8f09f77e0f",
+        "name": "",
+        "url": "/postUmidade",
+        "method": "post",
+        "upload": true,
+        "swaggerDoc": "",
+        "x": 250,
+        "y": 240,
+        "wires": [
+            [
+                "29341c865876c7ad"
+            ]
+        ]
+    },
+    {
+        "id": "357da5522bb17991",
+        "type": "http response",
+        "z": "d8ea2a8f09f77e0f",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 630,
+        "y": 240,
+        "wires": []
+    },
+    {
+        "id": "da93a87b222ef3df",
+        "type": "http in",
+        "z": "d8ea2a8f09f77e0f",
+        "name": "",
+        "url": "/getUmidade",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 250,
+        "y": 180,
+        "wires": [
+            [
+                "a4ae12c30841106d"
+            ]
+        ]
+    },
+    {
+        "id": "ebcd0e1612f3bda6",
+        "type": "http response",
+        "z": "d8ea2a8f09f77e0f",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 630,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "29341c865876c7ad",
+        "type": "cloudantplus out",
+        "z": "d8ea2a8f09f77e0f",
+        "name": "",
+        "cloudant": "391a0e9d37623a0d",
+        "database": "teste123",
+        "service": "_ext_",
+        "payonly": true,
+        "operation": "insert",
+        "x": 440,
+        "y": 240,
+        "wires": [
+            [
+                "357da5522bb17991"
+            ]
+        ]
+    },
+    {
+        "id": "a4ae12c30841106d",
+        "type": "cloudantplus in",
+        "z": "d8ea2a8f09f77e0f",
+        "name": "",
+        "cloudant": "8318448b866691f2",
+        "database": "teste123",
+        "service": "_ext_",
+        "search": "_all_",
+        "design": "",
+        "index": "",
+        "x": 440,
+        "y": 180,
+        "wires": [
+            [
+                "ebcd0e1612f3bda6"
+            ]
+        ]
+    },
+    {
+        "id": "391a0e9d37623a0d",
+        "type": "cloudantplus",
+        "host": "https://f1c0dcf9-5075-4061-a1f8-2f4ca596058a-bluemix.cloudantnosqldb.appdomain.cloud",
+        "name": "SegundaCredencial",
+        "useapikey": true
+    },
+    {
+        "id": "8318448b866691f2",
+        "type": "cloudantplus",
+        "host": "https://f1c0dcf9-5075-4061-a1f8-2f4ca596058a-bluemix.cloudantnosqldb.appdomain.cloud",
+        "name": "CredencialDoubloons",
+        "useapikey": true
+    }
+]

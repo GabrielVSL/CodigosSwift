@@ -1,0 +1,133 @@
+[{
+    "_id": "11fcb68d38da1298abfa9ff47869b8fb",
+    "_rev": "1-24a896e70d38055958b1eef94fe73af6",
+    "umidade": "72.75"
+}, {
+    "_id": "11fcb68d38da1298abfa9ff4786b5ed5",
+    "_rev": "1-b2115ca6c287aa8ebbc2f0e36667e2d3",
+    "umidade": "66.31"
+}, {
+    "_id": "3451a04903deda8333872e5bfc4d8441",
+    "_rev": "1-74769318f05b2c1b764d3ae311174a58",
+    "umidade": "0.00"
+}, {
+    "_id": "3451a04903deda8333872e5bfc641034",
+    "_rev": "1-47bec9b066f3858e04880a27c2090759",
+    "umidade": "53.13"
+}, {
+    "_id": "3c4dd9bb296fbd38eaad4e960bc0694d",
+    "_rev": "1-20a2c6f6a9e0be68e565ab7bb093fae5",
+    "umidade": "52.25"
+}, {
+    "_id": "65e257e974b37d2c34b73a4a7baa6c8d",
+    "_rev": "1-74769318f05b2c1b764d3ae311174a58",
+    "umidade": "0.00"
+}, {
+    "_id": "65e257e974b37d2c34b73a4a7bc05010",
+    "_rev": "1-6bfc936cd7fbb9d178e0a53db52f6780",
+    "umidade": "64.36"
+}, {
+    "_id": "870a6a681c554b93557f84902f170e45",
+    "_rev": "1-74769318f05b2c1b764d3ae311174a58",
+    "umidade": "0.00"
+}, {
+    "_id": "870a6a681c554b93557f84902f23138a",
+    "_rev": "1-237f52c9dc6d69076b5b315ecd9f517c",
+    "umidade": "72.07"
+}, {
+    "_id": "870a6a681c554b93557f84902f244e88",
+    "_rev": "1-2f799ae6e06ac66c1e4b29dc6bc302c5",
+    "umidade": "72.56"
+}, {
+    "_id": "870a6a681c554b93557f84902f249213",
+    "_rev": "1-ee0f7c1f938e7e9631b4aed599b3026c",
+    "umidade": "50.98"
+}, {
+    "_id": "8f16f3ce24dd369e0f507b508ef9cf09",
+    "_rev": "1-0bb57a06c73e44f4e46e085a5a50ac8c",
+    "umidade": "69.14"
+}, {
+    "_id": "8f16f3ce24dd369e0f507b508efa1df8",
+    "_rev": "1-64ef58f05a937f77f2949980ee556427",
+    "umidade": "71.39"
+}, {
+    "_id": "8f16f3ce24dd369e0f507b508efc1555",
+    "_rev": "1-431a21c9b00decec98af518b38a08f55",
+    "umidade": "79.30"
+}, {
+    "_id": "8f16f3ce24dd369e0f507b508efc4159",
+    "_rev": "1-74769318f05b2c1b764d3ae311174a58",
+    "umidade": "0.00"
+}, {
+    "_id": "9111423a4c4fb6d778a91c991b5a2e72",
+    "_rev": "1-7406bea4c7fcc3a0b40adfc31816a748",
+    "umidade": "72.17"
+}, {
+    "_id": "9111423a4c4fb6d778a91c991b5bb0d9",
+    "_rev": "1-81ba8434674df17961c6f372631c9310",
+    "umidade": "76.76"
+}, {
+    "_id": "9111423a4c4fb6d778a91c991b5bd307",
+    "_rev": "1-dff8bdc912a18efc6c1c049bad197610",
+    "umidade": "58.59"
+}, {
+    "_id": "9e699a82c34b223f8ebba28618d83995",
+    "_rev": "1-48967a7a9d82a47b61de10af2cbdda06",
+    "umidade": "73.93"
+}, {
+    "_id": "9e699a82c34b223f8ebba28618d853fc",
+    "_rev": "1-237f52c9dc6d69076b5b315ecd9f517c",
+    "umidade": "72.07"
+}, {
+    "_id": "9e699a82c34b223f8ebba28618da5f03",
+    "_rev": "1-f8a120888132a9606551a9295eec6887",
+    "umidade": "68.85"
+}, {
+    "_id": "9e699a82c34b223f8ebba28618da664d",
+    "_rev": "1-0a9601bda2c31fdb3410f9cc4b4a704f",
+    "umidade": "56.15"
+}, {
+    "_id": "acb49afbf04f02802757dd479c39a2e1",
+    "_rev": "1-59b07dc4f6c2cacd05878a37b09b9c16",
+    "umidade": "71.88"
+}, {
+    "_id": "acb49afbf04f02802757dd479c3bc490",
+    "_rev": "1-74769318f05b2c1b764d3ae311174a58",
+    "umidade": "0.00"
+}, {
+    "_id": "d309a5e204d70ac8789bd7e4bb59308c",
+    "_rev": "1-74769318f05b2c1b764d3ae311174a58",
+    "umidade": "0.00"
+}, {
+    "_id": "d309a5e204d70ac8789bd7e4bb593fc8",
+    "_rev": "1-cccdaeadacb247b390f60c341381988e",
+    "umidade": "71.19"
+}, {
+    "_id": "d66625ee3bb17c9e1eafd4be5458ec93",
+    "_rev": "1-c37d8f328d0a1ca8c3e4f2c57b038e84",
+    "umidade": "71.78"
+}, {
+    "_id": "d66625ee3bb17c9e1eafd4be545afb26",
+    "_rev": "1-b9e7054ae34696dcd5eacdb4dd022f4f",
+    "umidade": "63.38"
+}, {
+    "_id": "fa5eff06546203682d4b4e6429bca3a0",
+    "_rev": "1-7406bea4c7fcc3a0b40adfc31816a748",
+    "umidade": "72.17"
+}, {
+    "_id": "fa5eff06546203682d4b4e6429bcb62d",
+    "_rev": "1-225df7ef4244a371bbea11e642476d2c",
+    "umidade": "71.68"
+}, {
+    "_id": "fa5eff06546203682d4b4e6429bcd075",
+    "_rev": "1-7406bea4c7fcc3a0b40adfc31816a748",
+    "umidade": "72.17"
+}, {
+    "_id": "fa5eff06546203682d4b4e6429be1fcc",
+    "_rev": "1-0d64c4925d43d00394902921350e2ca5",
+    "umidade": "77.34"
+}, {
+    "_id": "fa5eff06546203682d4b4e6429be4605",
+    "_rev": "1-dca5cc6674df07c799370094b81378a9",
+    "umidade": "63.57"
+}]
